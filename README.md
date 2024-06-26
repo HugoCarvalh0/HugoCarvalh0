@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-melo-carvalho/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hugo.mec_/)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoCarvalh0&layout=compact)](https://github.com/HugoCarvalh0/github-readme-stats)
 ![Hugo Carvalho GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoCarvalh0&show_icons=true&theme=transparent)
 
 <div style="display: inline_block"><br/>
