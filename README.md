@@ -6,14 +6,14 @@
 
 - ⭐ Graduando em Engenharia de Software
 - ⚡ Atualmente trabalhando como Suporte/Helpdesk
-- 📖 Estudando desenvolvimento web
+- 📖 Estudando para DevOps
 
 ### **Front-End**
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 ### **Back-End**
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs)](https://skillicons.dev)
 ### **DevOps e Cloud Computing**
-[![My Skills](https://skillicons.dev/icons?i=azure,aws,terraform)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,aws,terraform,docker)](https://skillicons.dev)
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoCarvalh0&layout=compact&langs_count=16&theme=tokyonight"/>
